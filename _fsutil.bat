@@ -1,3 +1,5 @@
+@echo off
+
 rem This script is for enabling the Symlink evaluation on the client side. remote-to-remote (R2R) symlink evalution has to be enabled in order to make actual project data that is spread on different locations, also accessible by client, be available from a single location. TACTIC's constraint. Difficult to setup but seemingly convenient in the long run.
 rem add this script to the startup policy.
 
